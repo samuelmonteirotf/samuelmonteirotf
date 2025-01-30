@@ -1,4 +1,4 @@
-# 🌎 About Me:
+# About Me:
 <h1 align="center">🌍 Hello, World! I'm Samuel Monteiro Junior</h1><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=34D058&center=true&vCenter=true&width=435&lines=Software+Engineer;Data+Analyst;Tech+Enthusiast" alt="Typing SVG" /><br></p><br><br>---<br><br>Professional with a background in Law and specialization in Systems Analysis and Development. Solid experience in Java, Python, and JavaScript, working in software development, data analysis, and process automation. Interested in information security, cloud computing, and performance optimization.  <br>
 
 
