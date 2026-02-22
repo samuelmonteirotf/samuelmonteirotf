@@ -6,7 +6,7 @@ Formado em Direito + Análise e Desenvolvimento de Sistemas. Transformo leis e p
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -15,7 +15,7 @@ Formado em Direito + Análise e Desenvolvimento de Sistemas. Transformo leis e p
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔥 Projetos em Destaque
+### Projetos em Destaque
 - **[Prazo-Legal](https://github.com/samuelmonteirotf/Prazo-Legal)** → Calculadora inteligente de prazos processuais para tribunais brasileiros
 - **[JuriFlow](https://github.com/samuelmonteirotf/juriflow)** → Gerenciador completo de tarefas e processos para escritórios de advocacia
 - **[Chatbot JurID](https://github.com/samuelmonteirotf/Chatbot---JurID)** → Assistente virtual jurídico com suporte a certificado digital
@@ -23,7 +23,7 @@ Formado em Direito + Análise e Desenvolvimento de Sistemas. Transformo leis e p
 
 ### Vamos trabalhar juntos?
 - Instagram: [@smjunior1](https://instagram.com/smjunior1)
-- samuel@monteirotf.com
+- Mail: samuel@monteirotf.com
 - 🌍 Brasil
 
 **Procurando freelancer para LegalTech?** Site para advogado, automação de prazos, chatbot ou sistema personalizado? Me chama no Instagram ou abre uma issue aqui!
