@@ -18,12 +18,14 @@ Formado em Direito + Análise e Desenvolvimento de Sistemas. Transformo leis e p
 ### Projetos em Destaque
 - **[Prazo-Legal](https://github.com/samuelmonteirotf/Prazo-Legal)** → Calculadora inteligente de prazos processuais para tribunais brasileiros
 - **[JuriFlow](https://github.com/samuelmonteirotf/juriflow)** → Gerenciador completo de tarefas e processos para escritórios de advocacia
-- **[Chatbot JurID](https://github.com/samuelmonteirotf/Chatbot---JurID)** → Assistente virtual jurídico com suporte a certificado digital
+- **[Chatbot JurID](https://github.com/samuelmonteirotf/chatbot-jurid)** → Assistente virtual jurídico com suporte a certificado digital
 - **[Portfolio](https://github.com/samuelmonteirotf/portfolio)** → Meu site pessoal feito em Next.js + Tailwind
+
+---
 
 ### Vamos trabalhar juntos?
 - Instagram: [@smjunior1](https://instagram.com/smjunior1)
 - Mail: samuel@monteirotf.com
-- 🌍 Brasil
+- Brasil
 
 **Procurando freelancer para LegalTech?** Site para advogado, automação de prazos, chatbot ou sistema personalizado? Me chama no Instagram ou abre uma issue aqui!
