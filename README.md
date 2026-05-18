@@ -5,11 +5,15 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 
 ---
 
-### Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelmonteirotf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C5A059&icon_color=C5A059&text_color=E9E2D0" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmonteirotf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C5A059&text_color=E9E2D0" alt="Top Languages" />
-</p>
+### System Audit
+
+| Metric | Status |
+| :--- | :--- |
+| **Identity** | Verified Operator |
+| **Availability** | 24/7 Remote |
+| **Security** | Hardened |
+| **Registry** | 45+ Repositories |
+| **Environment** | São Paulo · Lisbon · Edge |
 
 ---
 
@@ -28,9 +32,14 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 
 ### Tech Stack
 
-- **Cloud & Infra:** Cloudflare, AWS, PostgreSQL, Linux
-- **Development:** Python, TypeScript, Next.js, Node.js
-- **Specialized:** LegalTech Automation, Data Analytics, Performance Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=C5A059" />
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=C5A059" />
+  <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=C5A059" />
+  <img src="https://img.shields.io/badge/Cloudflare-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=C5A059" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=C5A059" />
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=C5A059" />
+</p>
 
 ---
 
@@ -38,4 +47,4 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 
 - **Location:** São Paulo | Lisbon | Remote
 - **Operations:** [monteirotf.com](https://monteirotf.com)
-- **Status:** SECURE
+- **Status:** SECURE ◢◤
