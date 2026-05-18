@@ -47,4 +47,3 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 
 - **Location:** São Paulo | Lisbon | Remote
 - **Operations:** [monteirotf.com](https://monteirotf.com)
-- **Status:** SECURE ◢◤
