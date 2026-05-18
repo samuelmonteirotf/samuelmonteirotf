@@ -6,8 +6,10 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 ---
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelmonteirotf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C5A059&icon_color=C5A059&text_color=E9E2D0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmonteirotf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C5A059&text_color=E9E2D0)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelmonteirotf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C5A059&icon_color=C5A059&text_color=E9E2D0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmonteirotf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=C5A059&text_color=E9E2D0" alt="Top Languages" />
+</p>
 
 ---
 
