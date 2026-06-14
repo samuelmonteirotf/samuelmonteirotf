@@ -12,12 +12,12 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 | **Identity** | Verified Operator |
 | **Availability** | 24/7 Remote |
 | **Security** | Hardened |
-| **Registry** | 45+ Repositories |
+| **Registry** | 65+ Repositories |
 | **Environment** | São Paulo · Lisbon · Edge |
 
 ---
 
-### Selected Projects
+### Active Deployments
 
 - **[monteirotf.com](https://monteirotf.com)**
   Central hub for high-end digital operations and portfolio showcasing. Built with Next.js and optimized for global performance.
@@ -30,6 +30,22 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 
 ---
 
+### Public Operations (DevSecOps & Tools)
+
+- **[sentinel](https://github.com/samuelmonteirotf/sentinel)**
+  An edge bot-firewall on Cloudflare Workers — rate-limits and challenges clients based on TLS, HTTP version, and client characteristics without Enterprise APIs.
+
+- **[realscan](https://github.com/samuelmonteirotf/realscan)**
+  External security posture auditor on Cloudflare Workers. Features SSRF guarding, DNSSEC/DMARC validation, and client-side secret leakage detection.
+
+- **[hyprland-dotfiles](https://github.com/samuelmonteirotf/hyprland-dotfiles)**
+  Declarative Linux desktop workspace configuration as code. Custom window management, shell scripts, and keyboard bindings.
+
+- **[my-neovide](https://github.com/samuelmonteirotf/my-neovide)**
+  Dual-mode Neovim environment: terminal-based IDE and Neovide writing studio configured via Lua.
+
+---
+
 ### Tech Stack
 
 <p align="left">
@@ -39,6 +55,8 @@ Building high performance digital infrastructure. Specializing in secure cloud a
   <img src="https://img.shields.io/badge/Cloudflare-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=C5A059" />
   <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=C5A059" />
   <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=C5A059" />
+  <img src="https://img.shields.io/badge/Shell-0A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=C5A059" />
+  <img src="https://img.shields.io/badge/Lua-0A0A0A?style=for-the-badge&logo=lua&logoColor=C5A059" />
 </p>
 
 ---
@@ -47,3 +65,4 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 
 - **Location:** São Paulo | Lisbon | Remote
 - **Operations:** [monteirotf.com](https://monteirotf.com)
+
