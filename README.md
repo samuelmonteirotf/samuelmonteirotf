@@ -38,8 +38,8 @@ Building high performance digital infrastructure. Specializing in secure cloud a
 - **[realscan](https://github.com/samuelmonteirotf/realscan)**
   External security posture auditor on Cloudflare Workers. Features SSRF guarding, DNSSEC/DMARC validation, and client-side secret leakage detection.
 
-- **[hyprland-dotfiles](https://github.com/samuelmonteirotf/hyprland-dotfiles)**
-  Declarative Linux desktop workspace configuration as code. Custom window management, shell scripts, and keyboard bindings.
+- **[dotfiles-bspwm](https://github.com/samuelmonteirotf/dotfiles-bspwm)**
+  Declarative Linux desktop workspace configuration as code (BSPWM rice). Custom window management, shell scripts, and keyboard bindings.
 
 - **[my-neovide](https://github.com/samuelmonteirotf/my-neovide)**
   Dual-mode Neovim environment: terminal-based IDE and Neovide writing studio configured via Lua.
